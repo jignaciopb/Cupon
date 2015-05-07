@@ -23,16 +23,10 @@ class __TwigTemplate_37bbf6655c05cc487f0573e6e70288a4f6dba537b61a085c16f0a9bee31
 </head>
 <body id=\"portada\"><div id=\"contenedor\">
     <header>
-        <h1><a href=\"";
-        // line 8
-        echo $this->env->getExtension('routing')->getPath("portada");
-        echo "\">CUPON</a></h1>
+        <h1><a href=\"#\">CUPON</a></h1>
         <nav>
             <ul>
-                <li><a href=\"";
-        // line 11
-        echo $this->env->getExtension('routing')->getPath("portada");
-        echo "\">Oferta del día</a></li>
+                <li><a href=\"#\">Oferta del día</a></li>
                 <li><a href=\"#\">Ofertas recientes</a></li>
                 <li><a href=\"#\">Mis ofertas</a></li>
             </ul>
@@ -178,6 +172,6 @@ class __TwigTemplate_37bbf6655c05cc487f0573e6e70288a4f6dba537b61a085c16f0a9bee31
 
     public function getDebugInfo()
     {
-        return array (  162 => 75,  158 => 74,  154 => 73,  150 => 72,  146 => 71,  132 => 60,  124 => 55,  120 => 54,  113 => 49,  108 => 47,  105 => 46,  103 => 45,  96 => 42,  93 => 40,  90 => 39,  88 => 38,  82 => 35,  76 => 32,  69 => 28,  65 => 27,  61 => 26,  57 => 25,  49 => 20,  45 => 19,  34 => 11,  28 => 8,  19 => 1,);
+        return array (  156 => 75,  152 => 74,  148 => 73,  144 => 72,  140 => 71,  126 => 60,  118 => 55,  114 => 54,  107 => 49,  102 => 47,  99 => 46,  97 => 45,  90 => 42,  87 => 40,  84 => 39,  82 => 38,  76 => 35,  70 => 32,  63 => 28,  59 => 27,  55 => 26,  51 => 25,  43 => 20,  39 => 19,  19 => 1,);
     }
 }

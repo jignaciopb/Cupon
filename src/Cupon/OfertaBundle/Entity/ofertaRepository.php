@@ -16,9 +16,9 @@ class ofertaRepository extends EntityRepository
 
         $dql = 'SELECT o, c, t FROM OfertaBundle:oferta o
                 JOIN o.ciudad c JOIN o.tienda t
-                WHERE o.revisada = true
-                AND o.fechaPublicacion < :fecha
+                WHERE o.revisada = TRUE
                 AND c.slug = :ciudad
+                AND o.fechaPublicacion = :fecha
                 ORDER BY o.fechaPublicacion DESC';
 
         $consulta = $em ->createQuery($dql);

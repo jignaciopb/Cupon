@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e172ed05-4e1e-40c0-adb9-f9e1c5e7e888" name="Default" comment="" />
+    <list default="true" id="e172ed05-4e1e-40c0-adb9-f9e1c5e7e888" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/aa3b17a06c54069051111edd177f4b93a6b0ac40#panelAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/aa3b17a06c54069051111edd177f4b93a6b0ac40#searchBarAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/05/7a/307a05" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/05/f2/b0f205" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0a/49/3b490a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/11/de/08de11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1d/0d/980d1d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/22/11/2e1122" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/26/d4/a0d426" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/28/f2/c7f228" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2f/dd/cddd2f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/30/b6/84b630" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/32/7b/ab7b32" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/3a/54/19543a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/48/2a/9c2a48" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/4c/24/c3244c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/57/54/8e5457" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/62/58/025862" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6f/eb/02eb6f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/79/7c/7e7c79" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7a/09/f5097a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/83/18/c61883" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/84/2f/f62f84" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/8a/02/b7028a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/8e/65/cc658e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9a/c3/39c39a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9e/f0/d3f09e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a3/85/a185a3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b2/df/15dfb2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b9/0c/cc0cb9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b9/d2/0ed2b9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c1/75/aa75c1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c4/ed/6bedc4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d9/b5/33b5d9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e0/da/01dae0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e9/01/9501e9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f3/17/ce17f3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f6/42/8542f6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/fc/c6/c7c6fc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/sessions/sess_a9b7999ad8de492d850dcbfbff383011" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/1e/89/74c0d6c820726313ecdb0cfe62243b31cbe89583b60f8c8430ce926e9b51.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/59/24/3f30771c11bab68881aff79c64d3dfe9397f83ac5d906030918b6045bdf1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/76/3e/1b4f5595c15fceac19c115592c2c2292ab73bc063430e6c8a14d40b805f2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c4/93/900b119c4a4e1c48aac50ac60bb7240287767620de3770b881ec101e526c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/f9/a2/f8c2fd998a36b54eb60084d88949bcc8eae0508066c1538d9e100f915544.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/fc/68/3df9756c2de46df5c420e326bbaba4c48f3b8f69dae03010e05b9be80ded.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/00/28/57692e3c937433c79fee942780b2945579b72192c7193e081723381dac2b.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/00/28/57692e3c937433c79fee942780b2945579b72192c7193e081723381dac2b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/da/30/f255c491fd6ed5585843a1c192aa8c57a412bdf393353a6cfe5995871e1a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/da/30/f255c491fd6ed5585843a1c192aa8c57a412bdf393353a6cfe5995871e1a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/37/bb/f6655c05cc487f0573e6e70288a4f6dba537b61a085c16f0a9bee3125d1f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/37/bb/f6655c05cc487f0573e6e70288a4f6dba537b61a085c16f0a9bee3125d1f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/prod.log" afterPath="$PROJECT_DIR$/app/logs/prod.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" />
+    </list>
     <ignored path="Cupon.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -35,8 +98,8 @@
       <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="525">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               <folding>
                 <element signature="e#49#106#0#PHP" expanded="true" />
               </folding>
@@ -47,10 +110,16 @@
       <file leaf-file-name="ofertaRepository.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="555">
-              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
               <folding>
-                <marker date="1431025039000" expanded="true" signature="399:662" placeholder="SELECT o, c,..OfertaBundle..." />
+                <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+                <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+                <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+                <marker date="1431032017000" expanded="true" signature="399:556" placeholder="SELECT o, c,..OfertaBundle..." />
+                <marker date="1431032017000" expanded="true" signature="399:557" placeholder="SELECT o, c,..OfertaBundle..." />
+                <marker date="1431032017000" expanded="true" signature="399:662" placeholder="SELECT o, c,..OfertaBundle..." />
+                <marker date="1431032017000" expanded="true" signature="399:709" placeholder="SELECT o, c,..OfertaBundle..." />
               </folding>
             </state>
           </provider>
@@ -59,7 +128,7 @@
       <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="675">
+            <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="675">
               <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
               <folding />
             </state>
@@ -69,8 +138,8 @@
       <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1185">
-              <caret line="72" column="38" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185">
+              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,8 +148,8 @@
       <file leaf-file-name="portada.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2356021" vertical-offset="0" max-vertical-offset="1245">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.2617801" vertical-offset="0" max-vertical-offset="1245">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -109,10 +178,10 @@
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Sitio/nosotros.html.twig" />
         <option value="$PROJECT_DIR$/src/Cupon/UsuarioBundle/Entity/usuario.php" />
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/oferta.php" />
-        <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" />
-        <option value="$PROJECT_DIR$/app/config/config.yml" />
-        <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php" />
         <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig" />
       </list>
     </option>
@@ -542,13 +611,18 @@
       <recent name="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Sitio" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.app_dev.php">
+  <component name="RunManager" selected="JavaScript Debug.ofertaRepository.php">
     <configuration default="false" name="portada.html.twig" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cupon/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="false" name="app_dev.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/web/app_dev.php/">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ofertaRepository.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cupon/src/Cupon/OfertaBundle/Entity/ofertaRepository.php">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -578,14 +652,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.portada.html.twig" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.app_dev.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.ofertaRepository.php" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.app_dev.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.portada.html.twig" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.ofertaRepository.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.app_dev.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.portada.html.twig" />
       </list>
     </recent_temporary>
   </component>
@@ -688,7 +764,13 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="555">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
-            <marker date="1431025039000" expanded="true" signature="399:662" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:556" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:557" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:662" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:709" placeholder="SELECT o, c,..OfertaBundle..." />
           </folding>
         </state>
       </provider>
@@ -846,46 +928,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1185">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="675">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:556" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:557" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:662" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:709" placeholder="SELECT o, c,..OfertaBundle..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="525">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
           <folding>
             <element signature="e#49#106#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="555">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-          <folding>
-            <marker date="1431025039000" expanded="true" signature="399:662" placeholder="SELECT o, c,..OfertaBundle..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="675">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1185">
-          <caret line="72" column="38" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2356021" vertical-offset="0" max-vertical-offset="1245">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.2617801" vertical-offset="0" max-vertical-offset="1245">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding />
         </state>
       </provider>

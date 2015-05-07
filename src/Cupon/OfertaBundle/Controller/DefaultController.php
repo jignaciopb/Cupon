@@ -16,6 +16,8 @@ class DefaultController extends Controller
         $em = $this->getDoctrine()->getManager();
         $oferta = $em->getRepository('OfertaBundle:oferta')->findOfertaDelDia($ciudad);
 
+        //print $oferta; exit;
+
 
         if(!$oferta)
         {
