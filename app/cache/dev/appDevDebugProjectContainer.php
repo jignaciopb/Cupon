@@ -650,7 +650,7 @@ class appDevDebugProjectContainer extends Container
     {
         $this->services['doctrine_cache.providers.doctrine.orm.default_metadata_cache'] = $instance = new \Doctrine\Common\Cache\ArrayCache();
 
-        $instance->setNamespace('sf2orm_default_eeff87f93f0cfd15d49457e029de2f7b4dc5d3755ac29f16b7371448be1b3ffb');
+        $instance->setNamespace('sf2orm_default_2ad09cc8be1f3d93189945cafc5171cbd3d59c7bbdb9e52cff9be1c840c01914');
 
         return $instance;
     }
@@ -667,7 +667,7 @@ class appDevDebugProjectContainer extends Container
     {
         $this->services['doctrine_cache.providers.doctrine.orm.default_query_cache'] = $instance = new \Doctrine\Common\Cache\ArrayCache();
 
-        $instance->setNamespace('sf2orm_default_eeff87f93f0cfd15d49457e029de2f7b4dc5d3755ac29f16b7371448be1b3ffb');
+        $instance->setNamespace('sf2orm_default_2ad09cc8be1f3d93189945cafc5171cbd3d59c7bbdb9e52cff9be1c840c01914');
 
         return $instance;
     }
@@ -684,7 +684,7 @@ class appDevDebugProjectContainer extends Container
     {
         $this->services['doctrine_cache.providers.doctrine.orm.default_result_cache'] = $instance = new \Doctrine\Common\Cache\ArrayCache();
 
-        $instance->setNamespace('sf2orm_default_eeff87f93f0cfd15d49457e029de2f7b4dc5d3755ac29f16b7371448be1b3ffb');
+        $instance->setNamespace('sf2orm_default_2ad09cc8be1f3d93189945cafc5171cbd3d59c7bbdb9e52cff9be1c840c01914');
 
         return $instance;
     }
@@ -3425,7 +3425,7 @@ class appDevDebugProjectContainer extends Container
             'kernel.root_dir' => $this->targetDirs[2],
             'kernel.environment' => 'dev',
             'kernel.debug' => true,
-            'kernel.name' => 'app',
+            'kernel.name' => 'ap_',
             'kernel.cache_dir' => __DIR__,
             'kernel.logs_dir' => ($this->targetDirs[2].'/logs'),
             'kernel.bundles' => array(

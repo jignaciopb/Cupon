@@ -1,6 +1,6 @@
 <?php
 
-/* WebProfilerBundle:Profiler:layout.html.twig */
+/* @WebProfiler/Profiler/layout.html.twig */
 class __TwigTemplate_14df711b31bebd4c5aae75d38b218376f1fde018449ee496d97647ae4f6ece20 extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
@@ -8,7 +8,7 @@ class __TwigTemplate_14df711b31bebd4c5aae75d38b218376f1fde018449ee496d97647ae4f6
         parent::__construct($env);
 
         // line 1
-        $this->parent = $this->loadTemplate("@WebProfiler/Profiler/base.html.twig", "WebProfilerBundle:Profiler:layout.html.twig", 1);
+        $this->parent = $this->loadTemplate("@WebProfiler/Profiler/base.html.twig", "@WebProfiler/Profiler/layout.html.twig", 1);
         $this->blocks = array(
             'body' => array($this, 'block_body'),
             'panel' => array($this, 'block_panel'),
@@ -38,7 +38,7 @@ class __TwigTemplate_14df711b31bebd4c5aae75d38b218376f1fde018449ee496d97647ae4f6
     <div id=\"content\">
         ";
         // line 8
-        $this->loadTemplate("@WebProfiler/Profiler/header.html.twig", "WebProfilerBundle:Profiler:layout.html.twig", 8)->display(array());
+        $this->loadTemplate("@WebProfiler/Profiler/header.html.twig", "@WebProfiler/Profiler/layout.html.twig", 8)->display(array());
         // line 9
         echo "
         <div id=\"main\">
@@ -93,7 +93,7 @@ class __TwigTemplate_14df711b31bebd4c5aae75d38b218376f1fde018449ee496d97647ae4f6
                     <div id=\"collector-content\">
                         ";
         // line 31
-        $this->loadTemplate("@WebProfiler/Profiler/base_js.html.twig", "WebProfilerBundle:Profiler:layout.html.twig", 31)->display($context);
+        $this->loadTemplate("@WebProfiler/Profiler/base_js.html.twig", "@WebProfiler/Profiler/layout.html.twig", 31)->display($context);
         // line 32
         echo "                        ";
         $this->displayBlock('panel', $context, $blocks);
@@ -159,7 +159,7 @@ class __TwigTemplate_14df711b31bebd4c5aae75d38b218376f1fde018449ee496d97647ae4f6
         echo "
                     ";
         // line 57
-        $this->loadTemplate("@WebProfiler/Profiler/admin.html.twig", "WebProfilerBundle:Profiler:layout.html.twig", 57)->display(array("token" => (isset($context["token"]) ? $context["token"] : $this->getContext($context, "token"))));
+        $this->loadTemplate("@WebProfiler/Profiler/admin.html.twig", "@WebProfiler/Profiler/layout.html.twig", 57)->display(array("token" => (isset($context["token"]) ? $context["token"] : $this->getContext($context, "token"))));
         // line 58
         echo "                </div>
             </div>
@@ -250,7 +250,7 @@ class __TwigTemplate_14df711b31bebd4c5aae75d38b218376f1fde018449ee496d97647ae4f6
 
     public function getTemplateName()
     {
-        return "WebProfilerBundle:Profiler:layout.html.twig";
+        return "@WebProfiler/Profiler/layout.html.twig";
     }
 
     public function isTraitable()

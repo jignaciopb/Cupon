@@ -2,45 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e172ed05-4e1e-40c0-adb9-f9e1c5e7e888" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/frontend.html.twig" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/9f152d4c9155c75c1859cb68443441657354c053#estaticaAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/9f152d4c9155c75c1859cb68443441657354c053.cache.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/aa3b17a06c54069051111edd177f4b93a6b0ac40#panelAction.cache.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/aa3b17a06c54069051111edd177f4b93a6b0ac40#searchBarAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/03/1c/4e1c03" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/05/7a/307a05" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/05/f2/b0f205" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0a/49/3b490a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/11/de/08de11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0d/b0/e7b00d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/10/02/b40210" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/10/9f/089f10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/11/fd/59fd11" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1d/0d/980d1d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1f/ed/f8ed1f" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/22/11/2e1122" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/26/d4/a0d426" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/28/f2/c7f228" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/28/0d/6e0d28" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2c/ee/81ee2c" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2f/dd/cddd2f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/30/b6/84b630" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/30/49/cb4930" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/32/7b/ab7b32" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/3a/54/19543a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/35/61/1d6135" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/35/f7/4af735" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/3a/df/62df3a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/45/6e/626e45" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/46/80/b88046" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/48/2a/9c2a48" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/4c/24/c3244c" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/57/54/8e5457" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/59/77/b47759" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5e/e5/72e55e" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/62/58/025862" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/67/c8/b8c867" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6b/a1/fca16b" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6f/eb/02eb6f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/74/04/700474" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/77/d9/5ed977" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/79/7c/7e7c79" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7a/09/f5097a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7a/e2/4fe27a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7b/4e/8b4e7b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7d/14/a6147d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7d/8e/9a8e7d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7e/b3/e5b37e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7e/d5/c3d57e" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/83/18/c61883" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/84/2f/f62f84" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/8a/02/b7028a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/8e/65/cc658e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/90/b5/2cb590" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/97/13/4a1397" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/98/dc/f1dc98" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9a/c3/39c39a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9e/f0/d3f09e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9d/da/e9da9d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9e/4d/0f4d9e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9e/59/ca599e" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a3/85/a185a3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b2/df/15dfb2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a8/a0/c4a0a8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a9/f8/a2f8a9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ad/89/9a89ad" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ad/a9/f5a9ad" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ae/be/f9beae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ae/d7/35d7ae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b2/24/2324b2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b3/a0/7ca0b3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b6/1f/e81fb6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b7/03/e703b7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b7/59/4d59b7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b8/ee/b7eeb8" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b9/0c/cc0cb9" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b9/d2/0ed2b9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/bc/f7/30f7bc" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c1/75/aa75c1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c4/ed/6bedc4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d9/b5/33b5d9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e0/da/01dae0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e9/01/9501e9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c2/73/f873c2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c4/1b/e21bc4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c7/bd/0abdc7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cd/15/9215cd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cf/e9/34e9cf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d2/1f/bf1fd2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d3/3d/393dd3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/dd/21/ef21dd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e1/21/dc21e1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e2/36/2336e2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e5/84/5684e5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e8/03/e503e8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ec/fe/e0feec" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f3/17/ce17f3" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f6/42/8542f6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/fc/c6/c7c6fc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/fc/53/7053fc" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/sessions/sess_a9b7999ad8de492d850dcbfbff383011" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/1e/89/74c0d6c820726313ecdb0cfe62243b31cbe89583b60f8c8430ce926e9b51.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/59/24/3f30771c11bab68881aff79c64d3dfe9397f83ac5d906030918b6045bdf1.php" afterPath="" />
@@ -50,13 +98,27 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/fc/68/3df9756c2de46df5c420e326bbaba4c48f3b8f69dae03010e05b9be80ded.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d0/19/0c313b437061da664184b123a20e9b7a10fa8181bf71f05fe81028513e2a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d0/19/0c313b437061da664184b123a20e9b7a10fa8181bf71f05fe81028513e2a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e8/6b/278ffcd3d9af13fba431ee1f64f391d2d6a70d8f601550c65e05bd120b6d.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/e8/6b/278ffcd3d9af13fba431ee1f64f391d2d6a70d8f601550c65e05bd120b6d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/3b/ef/37162b06bfe78c4959773e925f5b8d9a41ac93f0027036075ba8dbeba63b.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/3b/ef/37162b06bfe78c4959773e925f5b8d9a41ac93f0027036075ba8dbeba63b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/b1/af/4152a30ea5d116a88eaeb0dd14dd10eed75eef9ae6e285e0c5629f9dd1e0.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/b1/af/4152a30ea5d116a88eaeb0dd14dd10eed75eef9ae6e285e0c5629f9dd1e0.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/00/28/57692e3c937433c79fee942780b2945579b72192c7193e081723381dac2b.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/00/28/57692e3c937433c79fee942780b2945579b72192c7193e081723381dac2b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/72/8c/74176fec4cd947a0f552603539073c308fefb8303531e14f0831fea9c278.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/72/8c/74176fec4cd947a0f552603539073c308fefb8303531e14f0831fea9c278.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c5/a5/7aee107f3720eee6fdc4a5b7f4a96f4029940277364e81defee93060a8e8.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/c5/a5/7aee107f3720eee6fdc4a5b7f4a96f4029940277364e81defee93060a8e8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c1/10/903ff2757c3f4e4fad40fc39b435250b36d88d216951cb818750a7f8002f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/c1/10/903ff2757c3f4e4fad40fc39b435250b36d88d216951cb818750a7f8002f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/99/79/970c4c6d62550ed73e5a8d07d848e83adfe7a95c23f3defa5d49ea014bc3.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/99/79/970c4c6d62550ed73e5a8d07d848e83adfe7a95c23f3defa5d49ea014bc3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/2b/e5/993eb9fab6a9e8a367c68b6fc7725be3e46b063c39c6455ec41d264b6a81.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/2b/e5/993eb9fab6a9e8a367c68b6fc7725be3e46b063c39c6455ec41d264b6a81.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/1f/52/99afb893e68fb7a6e2813864fff1d921f9357c414ab14aea7990d414d4a2.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/1f/52/99afb893e68fb7a6e2813864fff1d921f9357c414ab14aea7990d414d4a2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/68/56/a604f8151692be8b3b5339fbf9aadbf62f2e33e0189823dfe0182693ec15.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/68/56/a604f8151692be8b3b5339fbf9aadbf62f2e33e0189823dfe0182693ec15.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/60/ab/da890462a0d6f0cf5b2b1014038288e4f9843fd4c2c18f23897b6f9e7f2c.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/60/ab/da890462a0d6f0cf5b2b1014038288e4f9843fd4c2c18f23897b6f9e7f2c.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/8a/7a/e0eb996c7d6357d631ff600282c7006bc1aa9bbc40ac572495da732a2573.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/8a/7a/e0eb996c7d6357d631ff600282c7006bc1aa9bbc40ac572495da732a2573.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ba/1b/e2860f97aa54b7264018fd56879674af90577549a1595e1e20f1b9457d3e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/ba/1b/e2860f97aa54b7264018fd56879674af90577549a1595e1e20f1b9457d3e.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/da/30/f255c491fd6ed5585843a1c192aa8c57a412bdf393353a6cfe5995871e1a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/da/30/f255c491fd6ed5585843a1c192aa8c57a412bdf393353a6cfe5995871e1a.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/37/bb/f6655c05cc487f0573e6e70288a4f6dba537b61a085c16f0a9bee3125d1f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/37/bb/f6655c05cc487f0573e6e70288a4f6dba537b61a085c16f0a9bee3125d1f.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" />
@@ -98,8 +160,8 @@
       <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="555">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#49#106#0#PHP" expanded="true" />
               </folding>
@@ -125,6 +187,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="frontend.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/frontend.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39267015" vertical-offset="0" max-vertical-offset="660">
+              <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,18 +210,18 @@
       <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185">
+            <state vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1185">
               <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portada.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="portada.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2617801" vertical-offset="0" max-vertical-offset="1245">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="930">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -182,7 +254,9 @@
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php" />
         <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/frontend.html.twig" />
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/frontend.html.twig" />
       </list>
     </option>
   </component>
@@ -583,6 +657,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cupon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cupon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -608,6 +708,7 @@
       <recent name="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Resources/views" />
       <recent name="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Sitio" />
     </key>
   </component>
@@ -700,7 +801,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="22" width="1277" height="717" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -928,6 +1029,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="555">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#49#106#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1185">
@@ -960,20 +1071,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php">
+    <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-          <folding>
-            <element signature="e#49#106#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="930">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/frontend.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2617801" vertical-offset="0" max-vertical-offset="1245">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.39267015" vertical-offset="0" max-vertical-offset="660">
+          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
           <folding />
         </state>
       </provider>

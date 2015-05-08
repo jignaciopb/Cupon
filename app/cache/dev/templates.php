@@ -133,4 +133,5 @@
   'SensioDistributionBundle:Configurator:steps.html.twig' => '/Applications/MAMP/htdocs/Cupon/vendor/sensio/distribution-bundle/Sensio/Bundle/DistributionBundle/Resources/views/Configurator/steps.html.twig',
   '::base.html.twig' => '/Applications/MAMP/htdocs/Cupon/app/Resources/views/base.html.twig',
   ':default:index.html.twig' => '/Applications/MAMP/htdocs/Cupon/app/Resources/views/default/index.html.twig',
+  '::frontend.html.twig' => '/Applications/MAMP/htdocs/Cupon/app/Resources/views/frontend.html.twig',
 );

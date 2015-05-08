@@ -25,7 +25,7 @@ class DefaultController extends Controller
         }
 
 
-        return $this->render('OfertaBundle:Default:portada.html.twig',array('oferta'=>$oferta));
+        return $this->render('OfertaBundle:Default:portada.html.twig',array('oferta'=>$oferta, 'ciudad'=>$ciudad));
 
     }
 }
