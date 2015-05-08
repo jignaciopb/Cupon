@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e172ed05-4e1e-40c0-adb9-f9e1c5e7e888" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/frontend.html.twig" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/9f152d4c9155c75c1859cb68443441657354c053#estaticaAction.cache.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/9f152d4c9155c75c1859cb68443441657354c053.cache.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/aa3b17a06c54069051111edd177f4b93a6b0ac40#panelAction.cache.php" afterPath="" />
@@ -26,7 +25,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/32/7b/ab7b32" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/35/61/1d6135" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/35/f7/4af735" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/3a/df/62df3a" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/45/6e/626e45" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/46/80/b88046" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/48/2a/9c2a48" afterPath="" />
@@ -49,11 +47,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/83/18/c61883" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/84/2f/f62f84" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/8a/02/b7028a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/90/b5/2cb590" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/97/13/4a1397" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/98/dc/f1dc98" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9a/c3/39c39a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9d/da/e9da9d" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9e/4d/0f4d9e" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9e/59/ca599e" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a3/85/a185a3" afterPath="" />
@@ -66,9 +60,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b2/24/2324b2" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b3/a0/7ca0b3" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b6/1f/e81fb6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b7/03/e703b7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b7/59/4d59b7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b8/ee/b7eeb8" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b9/0c/cc0cb9" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b9/d2/0ed2b9" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/bc/f7/30f7bc" afterPath="" />
@@ -76,19 +67,14 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c2/73/f873c2" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c4/1b/e21bc4" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c7/bd/0abdc7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cd/15/9215cd" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cf/e9/34e9cf" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d2/1f/bf1fd2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d3/3d/393dd3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/dd/21/ef21dd" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e1/21/dc21e1" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e2/36/2336e2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e5/84/5684e5" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e8/03/e503e8" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ec/fe/e0feec" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f3/17/ce17f3" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f6/42/8542f6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/fc/53/7053fc" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/sessions/sess_a9b7999ad8de492d850dcbfbff383011" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/1e/89/74c0d6c820726313ecdb0cfe62243b31cbe89583b60f8c8430ce926e9b51.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/59/24/3f30771c11bab68881aff79c64d3dfe9397f83ac5d906030918b6045bdf1.php" afterPath="" />
@@ -96,13 +82,12 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c4/93/900b119c4a4e1c48aac50ac60bb7240287767620de3770b881ec101e526c.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/f9/a2/f8c2fd998a36b54eb60084d88949bcc8eae0508066c1538d9e100f915544.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/fc/68/3df9756c2de46df5c420e326bbaba4c48f3b8f69dae03010e05b9be80ded.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d0/19/0c313b437061da664184b123a20e9b7a10fa8181bf71f05fe81028513e2a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d0/19/0c313b437061da664184b123a20e9b7a10fa8181bf71f05fe81028513e2a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d3/29/0e3d459d80a76141be1defc414f018877b17bebd76672a13a6d02777e37c.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d3/29/0e3d459d80a76141be1defc414f018877b17bebd76672a13a6d02777e37c.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e8/6b/278ffcd3d9af13fba431ee1f64f391d2d6a70d8f601550c65e05bd120b6d.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/e8/6b/278ffcd3d9af13fba431ee1f64f391d2d6a70d8f601550c65e05bd120b6d.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/3b/ef/37162b06bfe78c4959773e925f5b8d9a41ac93f0027036075ba8dbeba63b.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/3b/ef/37162b06bfe78c4959773e925f5b8d9a41ac93f0027036075ba8dbeba63b.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/b1/af/4152a30ea5d116a88eaeb0dd14dd10eed75eef9ae6e285e0c5629f9dd1e0.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/b1/af/4152a30ea5d116a88eaeb0dd14dd10eed75eef9ae6e285e0c5629f9dd1e0.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/00/28/57692e3c937433c79fee942780b2945579b72192c7193e081723381dac2b.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/00/28/57692e3c937433c79fee942780b2945579b72192c7193e081723381dac2b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/3b/2e/69a5e6be92e7cba5672377f275799272d91a5847e73e0f10384679125b3f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/3b/2e/69a5e6be92e7cba5672377f275799272d91a5847e73e0f10384679125b3f.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/72/8c/74176fec4cd947a0f552603539073c308fefb8303531e14f0831fea9c278.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/72/8c/74176fec4cd947a0f552603539073c308fefb8303531e14f0831fea9c278.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c5/a5/7aee107f3720eee6fdc4a5b7f4a96f4029940277364e81defee93060a8e8.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/c5/a5/7aee107f3720eee6fdc4a5b7f4a96f4029940277364e81defee93060a8e8.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c1/10/903ff2757c3f4e4fad40fc39b435250b36d88d216951cb818750a7f8002f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/c1/10/903ff2757c3f4e4fad40fc39b435250b36d88d216951cb818750a7f8002f.php" />
@@ -111,17 +96,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/1f/52/99afb893e68fb7a6e2813864fff1d921f9357c414ab14aea7990d414d4a2.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/1f/52/99afb893e68fb7a6e2813864fff1d921f9357c414ab14aea7990d414d4a2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/68/56/a604f8151692be8b3b5339fbf9aadbf62f2e33e0189823dfe0182693ec15.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/68/56/a604f8151692be8b3b5339fbf9aadbf62f2e33e0189823dfe0182693ec15.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/60/ab/da890462a0d6f0cf5b2b1014038288e4f9843fd4c2c18f23897b6f9e7f2c.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/60/ab/da890462a0d6f0cf5b2b1014038288e4f9843fd4c2c18f23897b6f9e7f2c.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/8a/7a/e0eb996c7d6357d631ff600282c7006bc1aa9bbc40ac572495da732a2573.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/8a/7a/e0eb996c7d6357d631ff600282c7006bc1aa9bbc40ac572495da732a2573.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ba/1b/e2860f97aa54b7264018fd56879674af90577549a1595e1e20f1b9457d3e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/ba/1b/e2860f97aa54b7264018fd56879674af90577549a1595e1e20f1b9457d3e.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/da/30/f255c491fd6ed5585843a1c192aa8c57a412bdf393353a6cfe5995871e1a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/da/30/f255c491fd6ed5585843a1c192aa8c57a412bdf393353a6cfe5995871e1a.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/37/bb/f6655c05cc487f0573e6e70288a4f6dba537b61a085c16f0a9bee3125d1f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/37/bb/f6655c05cc487f0573e6e70288a4f6dba537b61a085c16f0a9bee3125d1f.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/frontend.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/frontend.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/prod.log" afterPath="$PROJECT_DIR$/app/logs/prod.log" />
@@ -187,11 +169,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frontend.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="frontend.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/frontend.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39267015" vertical-offset="0" max-vertical-offset="660">
-              <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="450">
+              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="420">
+              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -217,11 +209,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portada.html.twig" pinned="false" current-in-tab="false">
+      <file leaf-file-name="portada.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="930">
-              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.94545454" vertical-offset="305" max-vertical-offset="915">
+              <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -255,8 +247,9 @@
         <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/frontend.html.twig" />
-        <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/frontend.html.twig" />
+        <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig" />
       </list>
     </option>
   </component>
@@ -801,7 +794,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="22" width="1277" height="717" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1071,18 +1064,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/frontend.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="930">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="450">
+          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/frontend.html.twig">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39267015" vertical-offset="0" max-vertical-offset="660">
-          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+        <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="420">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94545454" vertical-offset="305" max-vertical-offset="915">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
           <folding />
         </state>
       </provider>
