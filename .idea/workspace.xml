@@ -4,6 +4,7 @@
     <list default="true" id="e172ed05-4e1e-40c0-adb9-f9e1c5e7e888" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/public/css/comun.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/public/css/frontend.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Cupon/CiudadBundle/Resources/views/Default/listaCiudades.html.twig" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/public/css/normalizar.css" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/9f152d4c9155c75c1859cb68443441657354c053#estaticaAction.cache.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/9f152d4c9155c75c1859cb68443441657354c053.cache.php" afterPath="" />
@@ -21,26 +22,16 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1f/ed/f8ed1f" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/22/11/2e1122" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/26/d4/a0d426" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/28/0d/6e0d28" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2c/ee/81ee2c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2f/dd/cddd2f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/30/49/cb4930" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/32/7b/ab7b32" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/35/61/1d6135" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/35/f7/4af735" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/45/6e/626e45" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/46/80/b88046" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/48/2a/9c2a48" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/57/54/8e5457" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/59/77/b47759" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5e/e5/72e55e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/62/58/025862" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/67/c8/b8c867" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6b/a1/fca16b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6f/eb/02eb6f" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/74/04/700474" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/77/d9/5ed977" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/79/7c/7e7c79" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7a/e2/4fe27a" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7b/4e/8b4e7b" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7d/14/a6147d" afterPath="" />
@@ -58,25 +49,17 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a9/f8/a2f8a9" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ad/89/9a89ad" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ad/a9/f5a9ad" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ae/be/f9beae" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ae/d7/35d7ae" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b2/24/2324b2" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b3/a0/7ca0b3" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b6/1f/e81fb6" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b9/0c/cc0cb9" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b9/d2/0ed2b9" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/bc/f7/30f7bc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c1/75/aa75c1" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c2/73/f873c2" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c4/1b/e21bc4" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c7/bd/0abdc7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cf/e9/34e9cf" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d2/1f/bf1fd2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e1/21/dc21e1" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e2/36/2336e2" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e8/03/e503e8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ec/fe/e0feec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f3/17/ce17f3" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f6/42/8542f6" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/sessions/sess_a9b7999ad8de492d850dcbfbff383011" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/1e/89/74c0d6c820726313ecdb0cfe62243b31cbe89583b60f8c8430ce926e9b51.php" afterPath="" />
@@ -96,19 +79,26 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/99/79/970c4c6d62550ed73e5a8d07d848e83adfe7a95c23f3defa5d49ea014bc3.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/99/79/970c4c6d62550ed73e5a8d07d848e83adfe7a95c23f3defa5d49ea014bc3.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/2b/e5/993eb9fab6a9e8a367c68b6fc7725be3e46b063c39c6455ec41d264b6a81.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/2b/e5/993eb9fab6a9e8a367c68b6fc7725be3e46b063c39c6455ec41d264b6a81.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/1f/52/99afb893e68fb7a6e2813864fff1d921f9357c414ab14aea7990d414d4a2.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/1f/52/99afb893e68fb7a6e2813864fff1d921f9357c414ab14aea7990d414d4a2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/CiudadBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/Cupon/CiudadBundle/Controller/DefaultController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/68/56/a604f8151692be8b3b5339fbf9aadbf62f2e33e0189823dfe0182693ec15.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/68/56/a604f8151692be8b3b5339fbf9aadbf62f2e33e0189823dfe0182693ec15.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/60/ab/da890462a0d6f0cf5b2b1014038288e4f9843fd4c2c18f23897b6f9e7f2c.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/60/ab/da890462a0d6f0cf5b2b1014038288e4f9843fd4c2c18f23897b6f9e7f2c.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/8a/7a/e0eb996c7d6357d631ff600282c7006bc1aa9bbc40ac572495da732a2573.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/8a/7a/e0eb996c7d6357d631ff600282c7006bc1aa9bbc40ac572495da732a2573.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ba/1b/e2860f97aa54b7264018fd56879674af90577549a1595e1e20f1b9457d3e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/ba/1b/e2860f97aa54b7264018fd56879674af90577549a1595e1e20f1b9457d3e.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/da/30/f255c491fd6ed5585843a1c192aa8c57a412bdf393353a6cfe5995871e1a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/da/30/f255c491fd6ed5585843a1c192aa8c57a412bdf393353a6cfe5995871e1a.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/frontend.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/frontend.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig" afterPath="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/prod.log" afterPath="$PROJECT_DIR$/app/logs/prod.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cupon/CiudadBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/Cupon/CiudadBundle/Resources/config/routing.yml" />
     </list>
     <ignored path="Cupon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -170,11 +160,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frontend.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="frontend.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/frontend.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8115183" vertical-offset="0" max-vertical-offset="573">
-              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="570">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2682927" vertical-offset="266" max-vertical-offset="1215">
+              <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cupon/CiudadBundle/Resources/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding>
+                <marker date="1431117042000" expanded="true" signature="0:153" placeholder="ciudad_cambiar:" />
+                <marker date="1431117042000" expanded="true" signature="120:153" placeholder="requirements:" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cupon/CiudadBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="480">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding>
+                <element signature="e#49#106#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listaCiudades.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cupon/CiudadBundle/Resources/views/Default/listaCiudades.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="375">
+              <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -203,9 +238,7 @@
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Sitio/nosotros.html.twig" />
         <option value="$PROJECT_DIR$/src/Cupon/UsuarioBundle/Entity/usuario.php" />
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/oferta.php" />
-        <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php" />
-        <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/frontend.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
@@ -213,7 +246,12 @@
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/public/css/normalizar.css" />
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/public/css/comun.css" />
         <option value="$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/public/css/frontend.css" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Cupon/CiudadBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Cupon/CiudadBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/Cupon/CiudadBundle/Resources/views/Default/listaCiudades.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/frontend.html.twig" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
       </list>
     </option>
   </component>
@@ -395,8 +433,26 @@
               <option name="myItemId" value="Cupon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="OfertaBundle" />
+              <option name="myItemId" value="Cupon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cupon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cupon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CiudadBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,41 +474,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="OfertaBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sitio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OfertaBundle" />
+              <option name="myItemId" value="CiudadBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -486,7 +508,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="OfertaBundle" />
+              <option name="myItemId" value="CiudadBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -494,11 +516,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -520,81 +538,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="OfertaBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OfertaBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Entity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OfertaBundle" />
+              <option name="myItemId" value="CiudadBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cupon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1026,38 +974,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1185">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="675">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding>
-            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
-            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
-            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
-            <marker date="1431032017000" expanded="true" signature="399:556" placeholder="SELECT o, c,..OfertaBundle..." />
-            <marker date="1431032017000" expanded="true" signature="399:557" placeholder="SELECT o, c,..OfertaBundle..." />
-            <marker date="1431032017000" expanded="true" signature="399:662" placeholder="SELECT o, c,..OfertaBundle..." />
-            <marker date="1431032017000" expanded="true" signature="399:709" placeholder="SELECT o, c,..OfertaBundle..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Resources/views/Default/portada.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.666666" vertical-offset="305" max-vertical-offset="915">
@@ -1098,10 +1014,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85714287" vertical-offset="78" max-vertical-offset="705">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cupon/CiudadBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <marker date="1431117042000" expanded="true" signature="0:153" placeholder="ciudad_cambiar:" />
+            <marker date="1431117042000" expanded="true" signature="120:153" placeholder="requirements:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cupon/OfertaBundle/Entity/ofertaRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:524" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:556" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:557" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:662" placeholder="SELECT o, c,..OfertaBundle..." />
+            <marker date="1431032017000" expanded="true" signature="399:709" placeholder="SELECT o, c,..OfertaBundle..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cupon/CiudadBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="480">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="e#49#106#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cupon/CiudadBundle/Resources/views/Default/listaCiudades.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="375">
+          <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/frontend.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8115183" vertical-offset="0" max-vertical-offset="573">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="570">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2682927" vertical-offset="266" max-vertical-offset="1215">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
           <folding />
         </state>
       </provider>
